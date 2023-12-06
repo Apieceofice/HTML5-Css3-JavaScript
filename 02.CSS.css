@@ -1,0 +1,273 @@
+body{
+    width: 1400px;
+    height: 100%;
+    background-color: #fff;
+    margin: 0 auto;
+}
+project{
+    width: 1400px;
+    height: 100%;
+}
+.head{
+    width: 1450px;
+    height: 38.5px;
+    background: rgba(0, 0, 0, 0.05);
+}
+.head .head-tou{
+    width: auto;
+    margin: 0 auto;
+    height: 100%;
+    position: relative;
+}
+.head-tou img{
+    position: absolute;
+    left: 250px;
+}
+.sc{
+    width: 1450px;
+    height: 619px;
+}
+.top{
+    width: 1450px;
+    height: 177.28px;
+    font-size: 25.6px;
+    position: relative;
+}
+.top .top-r{
+    width: 153.6px;
+    height: 33.28px;
+    position: absolute;
+    left: 600px; 
+    top: 85px;
+    
+}
+.top-1{
+    display: inline-block;
+    line-height: 1.3;
+}
+.top2{
+    width: 1450px;
+    height: 440.81px;
+    margin: auto;
+    position: relative;
+}
+.top2 .top2-t{
+    width: 288px;
+    height: 287.18px;
+    margin: auto;
+    position: absolute;
+    left: 280px;
+}
+.top2-t .top2-t1{
+    width: 288px;
+    height: 263.18px;
+}
+.top2-t1 #qr{
+    display: block; 
+    background-image: url(https://hnid-drcn.cloud.hihonor.com/CAS/up/idmw_rss_68/js/mobile_rss/vuebuild/img/ic_honor_logo.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 32px; 
+    height: 32px;
+    position: absolute; 
+    top: 85px;
+    left: 130px;  
+}
+.tp{
+    width:162px;
+    height: 162px;
+    box-sizing: border-box;
+    padding: 16px;
+    border: 1px solid #e6e6e6;
+    border-radius: 15.200000000000001px;
+    margin-left: 23%;
+    margin-top: 20px;
+}
+.tp img{
+    width: 128px;
+    height: 128px;
+    padding:0;
+}
+.text{
+    width: 208px;
+    height: 75.68px;
+    line-height: 17.67px;
+    color: #838383;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.text .text-bottom {
+    font-size: 11px;
+    height: 38px;
+    line-height: 19px;
+}
+ span.top-tt{
+    width: 2px;
+    background-color:#838383;
+    position: absolute;
+    left: 620px;
+}
+span.top-ttt{
+    width: 288px;
+    height: 400.81px;
+    position: absolute;
+    right: 400px;
+}
+span.top-ttt .top-text{
+    width: 288px;
+    height: 38.4px;
+    background-color: #e6e6e6;
+    margin-top: 20px;
+    border-radius: 6.4px;
+    color: #191919;
+    font-size: 12px;
+    opacity: 1;
+}
+.text-left{
+    /* width: 85.5px;
+    height: 38.4px; */
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.text-right{
+    /* width: 40px;
+    height: 38.4px; */
+    float:right;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+select{
+    background-color: #fefefe;
+    width: 82.32px;
+    height: 33.59px;
+    border: none;
+    outline: none;
+    border-radius: 6.4px;
+    background: rgba(0, 0, 0, 0.05);
+
+}
+.text-left1{
+    float: left;
+    margin-top: 2px;
+}
+.text1-right input{
+    border: none;
+    outline: none;
+    width: 195.38px;
+    height: 35px;
+    margin-left: 5px;
+    border-radius: 6.4px;
+    background: rgba(0, 0, 0, 0.05);
+
+}
+.top-text .top-input{
+    width: 265px;
+    height: 38.4px;
+    padding: 0 12.8px;
+    border: none;
+    outline: none;
+    border-radius: 6.4px;
+    background: rgba(0, 0, 0, 0.05);
+    font-size: 12px;
+}
+.top-text .top1-input{
+    display: inline-block;
+    line-height: 1.3;
+    color:#256fff;
+    width: 60px;
+    height: 15.4px;
+    position: absolute;
+    bottom: 237px;
+    right: 10px
+}
+.mist{
+    width: 51.2px;
+    height: 17px;
+    margin-top: 20px;
+    font-size: 12.8px;
+}
+.mist span a{
+    text-decoration: none;
+    color: #256fff;
+}
+.login{
+    width:288px ;
+    height: 37.29px;
+    display: block;
+    outline: none;
+    background-color: #256fff;
+    opacity: 0.7;
+    margin-top: 20px;
+    position: relative;
+    border: none;
+    border-radius: 6.4px;
+}
+.login .login-text{
+    width: 90px;
+    height: 18.71px;
+    position: absolute;
+    top: 10px;
+    left: 100px;
+}
+.login span a{
+    text-decoration: none;
+    font-size: 15.8px;
+    font-weight: 700;
+    color: #fff;
+}
+.text-sc{
+   width: 288px;
+   height: 20.8px;
+   margin: 40px 0;
+   text-align: center;
+   opacity: 0.6;
+   color: rgb(0, 0, 0,);
+   font-size: 16px;
+   font-weight: 700;
+}
+.imglogo{
+    width: 288px;
+    height: 89.5px;
+    margin-left: 50px;
+    margin-top: -20px;
+    
+}
+.imglogo img{
+    width: 32px;
+    height: 32px;
+    margin-left: 40px;
+}
+footer{
+    width: 1450px;
+    height: 88px;
+}
+.footer-box{
+    width: 447.62px;
+    height: 42px;
+    margin: 0 auto;
+
+}
+.footer-box p{
+    text-align: center;
+    line-height: 20px;
+    height: 20px;
+    font-size: 14px;
+}
+.footer-box .tx a{
+    text-decoration: none;
+    color: #191919;
+}
+.footer-box .tx a span{
+    display: inline-block;
+}
+.tx2{
+    line-height: 12px;
+    height: 12px;
+    margin-top: 10px;
+    color: #000;
+    opacity: 0.3;
+    text-align: center;
+    font-size: 11.25px;
+}
+
